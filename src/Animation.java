@@ -7,7 +7,7 @@ import android.view.animation.TranslateAnimation;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import static com.example.fc_dev.highvirus.Main.integer;
+import static com.example.WrapperPro.Main.integer;
 
 /*
  * Created by fc_dev on 18/07/17.
